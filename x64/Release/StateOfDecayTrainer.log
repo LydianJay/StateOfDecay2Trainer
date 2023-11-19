@@ -1,8 +1,0 @@
-﻿  dllmain.cpp
-C:\Users\LydianJay\Documents\StateOfDecayTrainer\wingui.h(130,2): warning C4091: 'typedef ': ignored on left of 'vec3col' when no variable is declared
-  Generating code
-  1 of 322 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  StateOfDecayTrainer.vcxproj -> C:\Users\LydianJay\Documents\StateOfDecayTrainer\x64\Release\StateOfDecayTrainer.dll
